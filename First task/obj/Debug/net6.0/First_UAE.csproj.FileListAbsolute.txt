@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\First_UAE\bin\Debug\net6.0\First_UAE.exe
+C:\Users\User\Desktop\C#\First_UAE\bin\Debug\net6.0\First_UAE.deps.json
+C:\Users\User\Desktop\C#\First_UAE\bin\Debug\net6.0\First_UAE.runtimeconfig.json
+C:\Users\User\Desktop\C#\First_UAE\bin\Debug\net6.0\First_UAE.dll
+C:\Users\User\Desktop\C#\First_UAE\bin\Debug\net6.0\First_UAE.pdb
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.dll
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\refint\First_UAE.dll
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.pdb
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\First_UAE.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\First_UAE\obj\Debug\net6.0\ref\First_UAE.dll
