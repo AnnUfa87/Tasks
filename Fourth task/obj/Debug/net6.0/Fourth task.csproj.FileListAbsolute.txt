@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\bin\Debug\net6.0\Fourth task.exe
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\bin\Debug\net6.0\Fourth task.deps.json
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\bin\Debug\net6.0\Fourth task.runtimeconfig.json
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\bin\Debug\net6.0\Fourth task.dll
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\bin\Debug\net6.0\Fourth task.pdb
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.dll
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\refint\Fourth task.dll
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.pdb
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\Fourth task.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\First_UAE\Fourth task\obj\Debug\net6.0\ref\Fourth task.dll
